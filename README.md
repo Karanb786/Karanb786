@@ -64,9 +64,20 @@ Mission:
 </a>
 
 <a href="mailto:kb410629@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-FF006E?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/EMAIL-FF006E?style=for-the-badge&logo=gmail&logoColor=blue"/>
 </a>
-
+<a href="https://www.instagram.com/kar_n.026/">
+ <img src="https://img.shields.io/badge/INSTAGRAM-0077B5?style=for-the-badge&logo=instagram&logoColor=red"/>
+</a>
+ 
+<a href="https://karanbaigaprofile.streamlit.app/">
+<img src="https://img.shields.io/badge/STREAMLIT-0077B5?style=for-the-badge&logo=streamlit"/>
+</a>
+ 
+<a href="https://x.com/Karanbaiga91439">
+<img src="https://img.shields.io/badge/X-0077B5?style=for-the-badge&logo=x&logoColor=black"/>
+</a>
+ 
 </div>
 
 ---
