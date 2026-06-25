@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="AI_banner.png" width="100%">
+</div>
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=✨%20WELCOME%20TO%20MY%20WORLD%20✨&fontSize=50&fontColor=FFFF00&animation=twinkling&color=0:FF00CC,50:7B2FF7,100:00F5FF" /> </p>
 
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFE7&center=true&vCenter=true&width=900&lines=AI+Engineer;Machine+Learning+Enthusiast;Data+Science+Explorer;Building+Intelligent+Solutions;Turning+Ideas+into+AI+Powered+Reality" /> </p>
