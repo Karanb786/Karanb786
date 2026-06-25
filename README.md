@@ -1,3 +1,10 @@
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=✨%20WELCOME%20TO%20MY%20WORLD%20✨&fontSize=50&fontColor=FFFF00&animation=twinkling&color=0:FF00CC,50:7B2FF7,100:00F5FF" /> </p>
+
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFE7&center=true&vCenter=true&width=900&lines=AI+Engineer;Machine+Learning+Enthusiast;Data+Science+Explorer;Building+Intelligent+Solutions;Turning+Ideas+into+AI+Powered+Reality" /> </p>
+
+<p align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4"/> </p>
+<table> <tr> <td width="16%"><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100%"></td><td width="16%"><img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%"></td><td width="16%"><img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="100%"></td><td width="16%"><img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%"></td><td width="16%"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJtNmV4Y2R2aGN4bXQ4bDg4aWQ2c3p4eXV5NjA4d3F4Z3F2cG11eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="100%"></td><td width="16%"><img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="100%"></td> </tr> </table>
+<p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" /> </p>
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="85"> Hi, I'm 
 
@@ -109,11 +116,19 @@ Mission:
 
 <img src="https://img.shields.io/badge/MLOps-FF00FF?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/matplot-00F5FF?style=for-the-badge&logo=matplot"/>
+<img src="https://img.shields.io/badge/Matplotlib-7B2FF7?style=for-the-badge&logo=matplotlib"/>
 
 <img src="https://img.shields.io/badge/Pytorch-7B2FF7?style=for-the-badge&logo=pytorch"/>
 
+<img src="https://img.shields.io/badge/Tensorflow-7B2FF7?style=for-the-badge&logo=tensorflow"/>
+
+<img src="https://img.shields.io/badge/Transformers-7B2FF7?style=for-the-badge&logo=transformers"/>
+
+
+
 </div>
+
+<p align="left"> <img src="https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,sklearn,anaconda,opencv,mysql,postgres,mongodb,git,github,vscode,pycharm,html,css,javascript,flask,django,fastapi,docker,linux,latex,sqlite,bash" /> </p>
 
 ---
 # 📊 GITHUB ANALYTICS
